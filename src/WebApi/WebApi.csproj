@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <!--TODO - uncomment below to include health checks from WebAPI project-->
+    <!--<PackageReference Include="App.Metrics.AspNetCore.Core" Version="2.0.0" />
+    <PackageReference Include="App.Metrics.AspNetCore.Health" Version="2.0.0" />-->
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lib\Lib.csproj" />
+  </ItemGroup>
+
+</Project>

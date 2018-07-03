@@ -1,0 +1,17 @@
+C:\srcIgnas\AppMetricsHealthCheckMissing\src\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache
+C:\srcIgnas\AppMetricsHealthCheckMissing\src\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CoreCompileInputs.cache
+C:\srcIgnas\AppMetricsHealthCheckMissing\src\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+C:\srcIgnas\AppMetricsHealthCheckMissing\src\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+C:\srcIgnas\AppMetricsHealthCheckMissing\src\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+C:\srcIgnas\AppMetricsHealthCheckMissing\src\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
+C:\srcIgnas\AppMetricsHealthCheckMissing\src\WebApi\bin\Debug\netcoreapp2.1\WebApi.deps.json
+C:\srcIgnas\AppMetricsHealthCheckMissing\src\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.json
+C:\srcIgnas\AppMetricsHealthCheckMissing\src\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.dev.json
+C:\srcIgnas\AppMetricsHealthCheckMissing\src\WebApi\bin\Debug\netcoreapp2.1\WebApi.dll
+C:\srcIgnas\AppMetricsHealthCheckMissing\src\WebApi\bin\Debug\netcoreapp2.1\WebApi.pdb
+C:\srcIgnas\AppMetricsHealthCheckMissing\src\WebApi\bin\Debug\netcoreapp2.1\Lib.dll
+C:\srcIgnas\AppMetricsHealthCheckMissing\src\WebApi\bin\Debug\netcoreapp2.1\Lib.pdb
+C:\srcIgnas\AppMetricsHealthCheckMissing\src\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\srcIgnas\AppMetricsHealthCheckMissing\src\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CopyComplete
+C:\srcIgnas\AppMetricsHealthCheckMissing\src\WebApi\obj\Debug\netcoreapp2.1\WebApi.dll
+C:\srcIgnas\AppMetricsHealthCheckMissing\src\WebApi\obj\Debug\netcoreapp2.1\WebApi.pdb

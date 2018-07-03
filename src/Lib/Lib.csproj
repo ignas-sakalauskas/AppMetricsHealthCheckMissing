@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="App.Metrics.AspNetCore.Core" Version="2.0.0" />
+    <PackageReference Include="App.Metrics.AspNetCore.Health" Version="2.0.0" />
+  </ItemGroup>
+
+</Project>
